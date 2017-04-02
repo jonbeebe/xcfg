@@ -1,5 +1,9 @@
 # xcfg
 
+![GitHub Issues](https://img.shields.io/github/issues/jonbeebe/xcfg.svg)
+![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)
+![JavaScript Standard Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)
+
 Cross-platform config file management made easy. Works great with command-line tools and [Electron](https://electron.atom.io) apps.
 
 ## Overview
@@ -59,6 +63,16 @@ $ npm run test
 ```
 
 All tests were written using the [mocha](https://mochajs.org) and [chai](http://chaijs.com) packages.
+
+## JavaScript Standard Style
+
+[![JavaScript Standard Style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://standardjs.com)
+
+This project conforms to the JavaScript Standard Style. You can check for style errors by running:
+
+```
+$ npm run lint
+```
 
 ## License
 
