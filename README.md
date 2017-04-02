@@ -49,7 +49,7 @@ And while there's *a little* more to it than that, that's the basic idea and rea
 
 ## Documentation
 
-Build and run the documentation locally:
+Build and view the documentation locally:
 
 ```
 $ npm run docs
