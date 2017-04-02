@@ -1,8 +1,8 @@
 # xcfg
 
-![GitHub Issues](https://img.shields.io/github/issues/jonbeebe/xcfg.svg)
-![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)
-![JavaScript Standard Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/jonbeebe/xcfg.svg)](https://github.com/jonbeebe/xcfg/issues)
+[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/jonbeebe/xcfg/blob/master/LICENSE)
+[![JavaScript Standard Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Cross-platform config file management made easy. Works great with command-line tools and [Electron](https://electron.atom.io) apps.
 
